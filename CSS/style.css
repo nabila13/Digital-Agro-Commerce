@@ -1,0 +1,31 @@
+.bg-color {
+    background-color: #ecbdc4;
+}
+
+.btn-color {
+    background-image: linear-gradient(to top, crimson, coral);
+}
+
+.bg-carousel {
+    background-color: #a6c76e;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.bg-logo {
+    background-image: linear-gradient(to bottom, lightgreen, darkgreen);
+}
+
+.bg-back {
+    background-image: linear-gradient(to right, #70dfa8, #84a79f, lightgreen);
+}
+
+.boxes-shadow {
+    box-shadow: 5px 5px 6px 3px gray;
+}
+
+.bg-contact {
+    background-image: linear-gradient(to top, #af5467, #cc6eb0, lightpink);
+}
